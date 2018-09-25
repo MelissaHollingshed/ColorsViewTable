@@ -1,6 +1,6 @@
 //
-//  ColorsViewTableUITests.swift
-//  ColorsViewTableUITests
+//  Colors_View_TableUITests.swift
+//  Colors View TableUITests
 //
 //  Created by Melissa Hollingshed on 9/24/18.
 //  Copyright © 2018 Melissa Hollingshed. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ColorsViewTableUITests: XCTestCase {
+class Colors_View_TableUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
